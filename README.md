@@ -1,7 +1,7 @@
 # AUTOMATED-REPORT-GENERATION
 **COMPANY** : CODETECH
 **NAME** : RAVI ORAON
-**INTERN ID** : CT08HZA
+**INTERN ID** : CT04DF2368
 **DOMAIN** : PYTHON PROGRAMMING INTERNSHIP
 **BATCH DURATION** : 2nd June to 2nd July
 **DESCRIPTION** : Automated Report Generation is an efficient and time-saving solution designed to generate dynamic, data-driven reports automatically. This project aims to streamline the process of generating reports, making it more scalable, reliable, and faster. Whether for business performance, project progress, financial analysis, or other data-driven contexts, this solution takes raw data, processes it, and generates structured, readable reports in formats such as PDF, HTML, or Excel.
